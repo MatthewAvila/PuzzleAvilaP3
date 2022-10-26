@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newMenu.unity
+    guid: d3136df27078b0c44abf5e0f43d2ce9e
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level01.unity
+    guid: 2e165c8be289f47448ae22da26c690f2
+  m_configObjects: {}
